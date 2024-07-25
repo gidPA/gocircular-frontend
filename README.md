@@ -2,7 +2,7 @@
 
 A frontend for gocircular project.
 
-##Technology Stack
+## Technology Stack
 - Vue 3.0
 - PrimeVue
 - PrimeIcons
